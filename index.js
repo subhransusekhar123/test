@@ -1,0 +1,1 @@
+var hello = "hello people how are you?"
